@@ -24,6 +24,13 @@ To maintain clean separation between development and production environments, th
 | **Mock Data** | `http://localhost:5174` | `http://localhost:8002` |
 | **Live Pipeline** | `http://localhost:5175` | `http://localhost:8001` |
 
+## ⚖️ Regulatory Domain Context
+Understanding the regulatory requirements driving this pipeline:
+
+*   **SOX 404 (Sarbanes-Oxley Act Section 404)**: Mandates that public companies establish, maintain, and strictly audit internal controls to guarantee the absolute accuracy and prevention of fraud in financial reporting.
+*   **ASC 606**: Establishes a standardized, five-step framework dictating exactly when and how businesses can legally recognize and record revenue from customer contracts.
+*   **GDPR (General Data Protection Regulation)**: A strict European data privacy law that regulates how organizations collect, process, store, and safeguard the personally identifiable information (PII) of individuals.
+
 ## 📸 Project Showcase
 
 ### Dashboard Overview
