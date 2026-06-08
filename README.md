@@ -26,13 +26,17 @@ To maintain clean separation between development and production environments, th
 
 ## 📸 Project Showcase
 
-| Dashboard Overview | Filings Overview |
-| :--- | :--- |
-| ![Compliance Dashboard](./images/Compliance_Dashboard.jpg) | ![Filings Dashboard](./images/Filings_Dashboard.jpg) |
+### Dashboard Overview
+![Compliance Dashboard](./images/Compliance_Dashboard.jpg)
 
-| ML Anomaly Investigation | Compliance Rule Violation |
-| :--- | :--- |
-| ![ML Anomaly](./images/ML_Anomaly.jpg) | ![Rule Violation](./images/Rule_Violation.jpg) |
+### Filings Overview
+![Filings Dashboard](./images/Filings_Dashboard.jpg)
+
+### ML Anomaly Investigation
+![ML Anomaly](./images/ML_Anomaly.jpg)
+
+### Compliance Rule Violation
+![Rule Violation](./images/Rule_Violation.jpg)
 
 ## 🔍 Core Technology Stack
 * **DuckDB**: An embedded, column-oriented database engine optimized for analytical queries. It allows for cloud-scale telemetry analysis directly within your Python environment without network overhead.
